@@ -1,0 +1,628 @@
+{
+  "description": "SAMPLE knowledge base. Each item: question, answer and optional paraphrases (other ways to ask it). Replace the answers with your official ones. Optional top-level 'synonyms': [[word, word, ...], ...].",
+  "qa": [
+    {
+      "question": "What is the swim distance in a full IRONMAN?",
+      "answer": "A full IRONMAN swim is 3.8 km (2.4 miles).",
+      "paraphrases": [
+        "How far is the swim in a full IRONMAN?",
+        "How long is the swimming leg of a full IRONMAN?"
+      ]
+    },
+    {
+      "question": "What is the bike distance in a full IRONMAN?",
+      "answer": "A full IRONMAN bike leg is 180 km (112 miles).",
+      "paraphrases": [
+        "How far is the cycling leg in a full IRONMAN?",
+        "How long is the bike ride in a full IRONMAN?"
+      ]
+    },
+    {
+      "question": "What is the run distance in a full IRONMAN?",
+      "answer": "A full IRONMAN run is a full marathon: 42.2 km (26.2 miles).",
+      "paraphrases": [
+        "How far is the run in a full IRONMAN?",
+        "How long is the running leg of a full IRONMAN?"
+      ]
+    },
+    {
+      "question": "What are the distances of an IRONMAN 70.3?",
+      "answer": "An IRONMAN 70.3 has a 1.9 km swim, a 90 km bike and a 21.1 km run (70.3 miles in total).",
+      "paraphrases": [
+        "How long is each leg of an IRONMAN 70.3?",
+        "What are the swim, bike and run lengths for the 70.3?"
+      ]
+    },
+    {
+      "question": "What is the overall cutoff time for a full IRONMAN?",
+      "answer": "The overall cutoff for a full IRONMAN is typically 17 hours from the swim start. Check your event's athlete guide for the exact times.",
+      "paraphrases": [
+        "What is the final time limit to finish a full IRONMAN?",
+        "How long do I have to complete a full IRONMAN overall?"
+      ]
+    },
+    {
+      "question": "What is the swim cutoff time for a full IRONMAN?",
+      "answer": "The swim cutoff for a full IRONMAN is typically 2 hours 20 minutes after the swim start. Check your event's athlete guide.",
+      "paraphrases": [
+        "How long do I have to finish the swim in a full IRONMAN?",
+        "What is the time limit for the swim of a full IRONMAN?"
+      ]
+    },
+    {
+      "question": "What is the bike cutoff time for a full IRONMAN?",
+      "answer": "The bike cutoff for a full IRONMAN is typically 10 hours 30 minutes after the swim start. Check your event's athlete guide.",
+      "paraphrases": [
+        "What is the time limit to finish the bike in a full IRONMAN?",
+        "How long do I have to complete the bike leg of a full IRONMAN?"
+      ]
+    },
+    {
+      "question": "What is the overall cutoff time for an IRONMAN 70.3?",
+      "answer": "The overall cutoff for an IRONMAN 70.3 is typically 8 hours 30 minutes from the swim start. Check your event's athlete guide.",
+      "paraphrases": [
+        "What is the final time limit to finish an IRONMAN 70.3?",
+        "How long do I have to complete an IRONMAN 70.3 overall?"
+      ]
+    },
+    {
+      "question": "What is the swim cutoff time for an IRONMAN 70.3?",
+      "answer": "The swim cutoff for an IRONMAN 70.3 is typically 1 hour 10 minutes after the swim start. Check your event's athlete guide.",
+      "paraphrases": [
+        "How long do I have to finish the swim in an IRONMAN 70.3?",
+        "What is the time limit for the swim of a 70.3?"
+      ]
+    },
+    {
+      "question": "What is the bike cutoff time for an IRONMAN 70.3?",
+      "answer": "The bike cutoff for an IRONMAN 70.3 is typically 5 hours 30 minutes after the swim start. Check your event's athlete guide.",
+      "paraphrases": [
+        "What is the time limit to finish the bike in an IRONMAN 70.3?",
+        "How long do I have to complete the bike leg of a 70.3?"
+      ]
+    },
+    {
+      "question": "How do I register for an IRONMAN race?",
+      "answer": "Create an athlete account on the official IRONMAN website, open the event's page, choose the race and distance, and complete the payment.",
+      "paraphrases": [
+        "How can I sign up for an IRONMAN race?",
+        "What is the process to enrol in an IRONMAN event?"
+      ]
+    },
+    {
+      "question": "What is the registration fee for an IRONMAN race?",
+      "answer": "Entry fees differ by event, distance and registration date. The current price is shown on each event's registration page.",
+      "paraphrases": [
+        "How much does it cost to enter an IRONMAN race?",
+        "What is the entry fee for an IRONMAN event?"
+      ]
+    },
+    {
+      "question": "Can I get a refund if I cancel my IRONMAN registration?",
+      "answer": "Refund rules differ by event and are set in the event's terms. Many events do not refund entries but may allow a transfer or deferral, so check the event's policy.",
+      "paraphrases": [
+        "Will I get my money back if I withdraw from an IRONMAN?",
+        "Is a refund possible when I cancel my IRONMAN entry?"
+      ]
+    },
+    {
+      "question": "Can I transfer my IRONMAN entry to another person?",
+      "answer": "Many events allow transfers up to a set deadline, sometimes for a fee. The rules are on the event's page.",
+      "paraphrases": [
+        "Can I give my IRONMAN slot to someone else?",
+        "Is it allowed to hand over my IRONMAN registration to another athlete?"
+      ]
+    },
+    {
+      "question": "Can I defer my IRONMAN entry to next year?",
+      "answer": "Deferral depends on the event and the reason. Check the event's deferral policy and deadline.",
+      "paraphrases": [
+        "Can I roll my IRONMAN registration over to the following year?",
+        "Is it possible to postpone my IRONMAN entry until next year?"
+      ]
+    },
+    {
+      "question": "Is a wetsuit mandatory in the IRONMAN swim?",
+      "answer": "No, wetsuits are not mandatory. Whether they are allowed depends on the water temperature, and officials confirm it on race morning.",
+      "paraphrases": [
+        "Do I have to wear a wetsuit in the IRONMAN swim?",
+        "Are wetsuits compulsory for the IRONMAN swim?"
+      ]
+    },
+    {
+      "question": "Is drafting allowed on the bike?",
+      "answer": "No. Drafting is not allowed in IRONMAN races. You must keep the required gap behind the rider in front and pass within the allowed time.",
+      "paraphrases": [
+        "Am I allowed to ride in another cyclist's slipstream on the bike?",
+        "Is it legal to draft on the bike course?"
+      ]
+    },
+    {
+      "question": "What is the penalty for drafting?",
+      "answer": "A drafting violation is a time penalty served in a penalty tent. The exact duration is in the event's athlete guide and the competition rules.",
+      "paraphrases": [
+        "What happens if I get caught drafting?",
+        "What is the punishment for drafting on the bike?"
+      ]
+    },
+    {
+      "question": "Where do I drop off my bike before the race?",
+      "answer": "Bikes are racked at bike check-in in the transition area, usually the day before the race. Times and location are in the athlete guide.",
+      "paraphrases": [
+        "Where do I leave my bicycle before race day?",
+        "Where is bike check-in?"
+      ]
+    },
+    {
+      "question": "What should I eat during the bike leg?",
+      "answer": "Practise your nutrition in training, take carbohydrates and fluids at regular intervals, and use the aid stations. Avoid trying new products on race day.",
+      "paraphrases": [
+        "What nutrition should I take on the bike leg?",
+        "What should I have to eat while cycling in the race?"
+      ]
+    },
+    {
+      "question": "How many aid stations are on the run course?",
+      "answer": "The number and spacing of run aid stations vary by event, often every 1.5 to 3 km. The course map in the athlete guide shows them.",
+      "paraphrases": [
+        "How many aid stations are there on the running course?",
+        "How many feed zones are on the run?"
+      ]
+    },
+    {
+      "question": "Can spectators watch the swim start?",
+      "answer": "Usually yes, from the designated spectator areas near the swim start. Follow the event's spectator guide for restricted zones.",
+      "paraphrases": [
+        "Are spectators permitted to see the swim start?",
+        "Can supporters watch the start of the swim?"
+      ]
+    },
+    {
+      "question": "How do I qualify for the IRONMAN World Championship in Kona?",
+      "answer": "You earn a qualifying slot at an IRONMAN race by finishing high enough in your age group. Slots are claimed at the slot allocation after the race, and unclaimed slots roll down.",
+      "paraphrases": [
+        "How can I earn a Kona World Championship slot?",
+        "What do I need to do to get into the IRONMAN World Championship in Kona?"
+      ]
+    },
+    {
+      "question": "What is the minimum age to race an IRONMAN?",
+      "answer": "You must be at least 18 years old on race day to compete in an IRONMAN or IRONMAN 70.3.",
+      "paraphrases": [
+        "How old do I need to be to race an IRONMAN?",
+        "What is the youngest age allowed to compete in an IRONMAN?"
+      ]
+    },
+    {
+      "question": "How do I volunteer at an IRONMAN event?",
+      "answer": "Volunteer sign-up is on the event's page on the official IRONMAN website. Choose a role and shift and register.",
+      "paraphrases": [
+        "How can I sign up to volunteer at an IRONMAN event?",
+        "How do I help out as a volunteer at an IRONMAN?"
+      ]
+    },
+    {
+      "question": "Are headphones allowed during the race?",
+      "answer": "No. Headphones and earbuds are not allowed during the race for safety reasons.",
+      "paraphrases": [
+        "Can I wear headphones during the race?",
+        "Is listening to music with earbuds permitted in the race?"
+      ]
+    },
+    {
+      "question": "What water temperature should I expect for the swim?",
+      "answer": "It depends on the event and the season. The official water temperature is announced during race week and confirmed on race morning.",
+      "paraphrases": [
+        "How warm is the water for the swim?",
+        "What temperature will the water be during the swim?"
+      ]
+    },
+    {
+      "question": "What time does the race start?",
+      "answer": "Start times vary by event and wave. Your start time and wave are listed in the athlete guide.",
+      "paraphrases": [
+        "At what time does the race begin?",
+        "What is the start time of the race?"
+      ]
+    },
+    {
+      "question": "Where is the expo and packet pickup?",
+      "answer": "The expo and athlete check-in are usually at or near the race venue in the days before the race. The location and opening hours are in the athlete guide.",
+      "paraphrases": [
+        "Where can I collect my race pack and visit the expo?",
+        "Where do I pick up my race packet?"
+      ]
+    },
+    {
+      "question": "Can I rent a bike for an IRONMAN race?",
+      "answer": "Many events have local bike rental or bike shipping partners. Check the event's travel and logistics page.",
+      "paraphrases": [
+        "Is it possible to hire a bike for an IRONMAN race?",
+        "Can I borrow a bike for an IRONMAN race?"
+      ]
+    },
+    {
+      "question": "How are age groups decided at IRONMAN races?",
+      "answer": "Athletes are grouped in five-year age groups (for example 25-29, 30-34) based on their age on 31 December of the race year.",
+      "paraphrases": [
+        "How are athletes sorted into age groups at IRONMAN races?",
+        "How does IRONMAN decide the age group categories?"
+      ]
+    },
+    {
+      "question": "Is there a relay option at IRONMAN races?",
+      "answer": "Some events offer relay teams, mainly at IRONMAN 70.3 races. Check whether your event has a relay on its registration page.",
+      "paraphrases": [
+        "Can a team do an IRONMAN race as a relay?",
+        "Do IRONMAN races have a relay category?"
+      ]
+    },
+    {
+      "question": "Where can I park near the race start?",
+      "answer": "Parking and shuttle details are in each event's athlete guide and spectator guide. Parking often fills early, so arrive in good time.",
+      "paraphrases": [
+        "Where is the parking close to the race start?",
+        "Where can I leave my car near the start of the race?"
+      ]
+    },
+    {
+      "question": "What equipment is mandatory on race day?",
+      "answer": "You need a working bike, an approved helmet that is fastened whenever you are on the bike, and your race bib displayed as required. The full list is in the competition rules.",
+      "paraphrases": [
+        "Which gear is compulsory on race day?",
+        "What equipment do I need to carry on race day?"
+      ]
+    },
+    {
+      "question": "Where can I find my race results?",
+      "answer": "Live tracking and final results are published on the official IRONMAN results page for your event, usually within hours of your finish.",
+      "paraphrases": [
+        "Where can I look up my race results?",
+        "How do I see my finishing time and results?"
+      ]
+    },
+    {
+      "question": "Where can I find the athlete guide?",
+      "answer": "The athlete guide is published on the event's page on the official IRONMAN website a few weeks before the race.",
+      "paraphrases": [
+        "Where can I download the athlete guide?",
+        "Where is the athlete guide published?"
+      ]
+    },
+    {
+      "question": "When does registration open for an IRONMAN race?",
+      "answer": "Opening dates differ by event. The registration opening date is shown on each event's page, and many events open registration right after the previous year's race.",
+      "paraphrases": [
+        "When can I start registering for an IRONMAN race?",
+        "On what date does the registration window open for an IRONMAN?"
+      ]
+    },
+    {
+      "question": "What is the registration deadline for an IRONMAN race?",
+      "answer": "Registration stays open until the event sells out or the event's closing date, whichever comes first. The date is shown on the event's registration page.",
+      "paraphrases": [
+        "What is the cutoff date to register for an IRONMAN race?",
+        "What is the deadline to sign up for an IRONMAN race?"
+      ]
+    },
+    {
+      "question": "What are the age group awards?",
+      "answer": "The top finishers in each age group, usually the top three, receive age group awards at the awards ceremony. Check the event's athlete guide for the ceremony time.",
+      "paraphrases": [
+        "What awards are given in the age groups?",
+        "Are there prizes for the age group winners?"
+      ]
+    },
+    {
+      "question": "How hilly is the bike course?",
+      "answer": "The elevation profile differs by event. The course map and elevation profile are on the event's course page and in the athlete guide.",
+      "paraphrases": [
+        "How many hills are there on the bike course?",
+        "Is the bike course flat or hilly?"
+      ]
+    },
+    {
+      "question": "What is the weather like on race day?",
+      "answer": "It depends on the event and the season. Check the forecast in race week, and the athlete guide for typical conditions and heat or cold advice.",
+      "paraphrases": [
+        "What is the usual weather on race day?",
+        "How is the weather on the day of the race?"
+      ]
+    },
+    {
+      "question": "What should I eat the night before the race?",
+      "answer": "Eat familiar, easily digested, carbohydrate-rich food, and avoid trying anything new. Stay hydrated and keep your usual routine.",
+      "paraphrases": [
+        "What should I have for dinner before the race?",
+        "What is a good meal for the evening before the race?"
+      ]
+    },
+    {
+      "question": "Can spectators enter the finish area?",
+      "answer": "Spectators can watch from the public areas around the finish line. Access to the finish chute and athlete recovery area is restricted to athletes and officials.",
+      "paraphrases": [
+        "Are spectators permitted in the finish area?",
+        "Can supporters go into the finish area?"
+      ]
+    },
+    {
+      "question": "How do I get to Kona from the airport?",
+      "answer": "Fly into Kona International Airport (KOA) at Keahole. From there you can use a rental car, taxi or shuttle to reach Kailua-Kona.",
+      "paraphrases": [
+        "How can I travel from the airport to Kona?",
+        "What is the way to reach Kona from the airport?"
+      ]
+    },
+    {
+      "question": "Is a helmet required on the bike?",
+      "answer": "Yes. You must wear an approved helmet, correctly fastened, whenever you are on your bike, including when you are walking it.",
+      "paraphrases": [
+        "Do I need to wear a helmet on the bike?",
+        "Is wearing a helmet compulsory on the bike?"
+      ]
+    },
+    {
+      "question": "Is there a maximum age limit for IRONMAN races?",
+      "answer": "There is no upper age limit. Athletes race in five-year age groups that continue into the older age groups.",
+      "paraphrases": [
+        "Is there an upper age limit for IRONMAN races?",
+        "What is the oldest age allowed to race an IRONMAN?"
+      ]
+    },
+    {
+      "question": "Where do I drop off my run gear bag?",
+      "answer": "Run gear bags are left in the transition area at the allocated spot, usually when you rack your bike the day before. Details are in the athlete guide.",
+      "paraphrases": [
+        "Where do I leave my run gear bag?",
+        "Where do I hand in my running gear bag?"
+      ]
+    },
+    {
+      "question": "How many aid stations are on the bike course?",
+      "answer": "The number and spacing of bike aid stations vary by event, often every 20 to 30 km. The course map in the athlete guide shows their locations.",
+      "paraphrases": [
+        "How many aid stations are there on the cycling course?",
+        "How many feed zones are on the bike leg?"
+      ]
+    },
+    {
+      "question": "Do all finishers get a medal?",
+      "answer": "Athletes who finish within the course cutoff receive a finisher medal, and usually a finisher shirt or gift.",
+      "paraphrases": [
+        "Does every finisher receive a medal?",
+        "Is a finisher medal given to everyone who finishes?"
+      ]
+    },
+    {
+      "question": "When is the athlete briefing?",
+      "answer": "The athlete briefing is usually held the day before the race. The time and place are in the athlete guide.",
+      "paraphrases": [
+        "At what time is the athlete briefing?",
+        "When does the athlete briefing take place?"
+      ]
+    },
+    {
+      "question": "What is the swim cutoff time for IRONMAN Texas?",
+      "answer": "The swim cutoff for IRONMAN Texas is typically 2 hours 20 minutes from the swim start. Check the athlete guide for the exact time."
+    },
+    {
+      "question": "Can I use a wetsuit in IRONMAN Lake Placid?",
+      "answer": "Wetsuit use depends on the water temperature on race day and is announced at the athlete briefing."
+    },
+    {
+      "question": "How do I register for IRONMAN 70.3 Pune?",
+      "answer": "Create an athlete account on the official IRONMAN website, open the IRONMAN 70.3 Pune page and complete the payment."
+    },
+    {
+      "question": "What's the bike course elevation gain at IRONMAN Kona?",
+      "answer": "The elevation gain figure is listed in the athlete guide for IRONMAN Kona."
+    },
+    {
+      "question": "Is drafting allowed on the bike leg?",
+      "answer": "No. Drafting is not allowed in IRONMAN races. You must keep the required distance from the rider ahead."
+    },
+    {
+      "question": "Where do I rack my bike before the race?",
+      "answer": "Bikes are racked in the transition area at bike check-in on the day before the race. The location is in the athlete guide."
+    },
+    {
+      "question": "What happens if I miss the run cutoff?",
+      "answer": "If you miss a cutoff you are stopped by race officials and recorded as did not finish."
+    },
+    {
+      "question": "Do you provide aid stations on the run course?",
+      "answer": "Yes. Aid stations are placed along the run course with water, nutrition and medical support."
+    },
+    {
+      "question": "What is the swim cutoff for IRONMAN Texas?",
+      "answer": "The swim cutoff for IRONMAN Texas is typically 2 hours 20 minutes from the swim start."
+    },
+    {
+      "question": "Wetsuit rules for IRONMAN Lake Placid?",
+      "answer": "Wetsuits are allowed or banned depending on the water temperature on race day; the rules are in the athlete guide."
+    },
+    {
+      "question": "What is the bike cutoff for IRONMAN 70.3 Pune?",
+      "answer": "The bike cutoff for IRONMAN 70.3 Pune is listed in the athlete guide for the event."
+    },
+    {
+      "question": "How long is the run in a full IRONMAN?",
+      "answer": "The run in a full IRONMAN is a marathon: 42.2 km (26.2 miles)."
+    },
+    {
+      "question": "What are the swim cutoff times?",
+      "answer": "Swim cutoff times depend on the race distance and event; see the athlete guide."
+    },
+    {
+      "question": "What is the maximum bike frame size allowed?",
+      "answer": "Bike frame size limits are set in the IRONMAN competition rules; check the rulebook."
+    },
+    {
+      "question": "Where are the swim aid points?",
+      "answer": "Swim safety and support points are shown on the swim course map in the athlete guide."
+    },
+    {
+      "question": "Can I withdraw and get a refund?",
+      "answer": "Refund eligibility depends on the registration terms and the date you withdraw."
+    },
+    {
+      "question": "What disqualifies an athlete?",
+      "answer": "Serious rule breaches such as cutting the course, outside assistance or unsportsmanlike conduct can lead to disqualification."
+    },
+    {
+      "question": "What is the 2025 IRONMAN Kona qualifying slot allocation?",
+      "answer": "Kona slot allocation is published per race and per year on the official IRONMAN website."
+    },
+    {
+      "question": "When does registration open this year?",
+      "answer": "Registration opening dates are published on each event page of the official IRONMAN website."
+    },
+    {
+      "question": "Where can athletes park on race day?",
+      "answer": "Athlete parking locations are listed in the athlete guide for your event."
+    },
+    {
+      "question": "What is the volunteer check-in time?",
+      "answer": "Volunteer check-in times are sent to volunteers by the event team."
+    },
+    {
+      "question": "What is the cutoff for the 18-24 age group?",
+      "answer": "Cutoff times are the same for all age groups; see the cutoff times for your race distance."
+    },
+    {
+      "question": "Pro athlete prize money for IRONMAN Texas?",
+      "answer": "Pro prize money is published for each event on the official IRONMAN website."
+    },
+    {
+      "question": "Is a 2:20 swim cutoff enough for a first-timer?",
+      "answer": "A 2 hours 20 minutes swim cutoff is about 3.7 minutes per 100 m for a full IRONMAN swim; many first-timers finish comfortably within it with training."
+    },
+    {
+      "question": "Can I carry 2 bottles on the bike?",
+      "answer": "Yes, you can carry bottles on your bike within the equipment rules."
+    },
+    {
+      "question": "What are the rules for transition area?",
+      "answer": "Only race gear is allowed in the transition area, and athletes must follow the marshals' instructions. See the athlete guide."
+    },
+    {
+      "question": "How do I train for the swim?",
+      "answer": "Train with regular open-water and pool sessions and build up to the full swim distance."
+    },
+    {
+      "question": "ironman 70.3 pune swim cutoff",
+      "answer": "The swim cutoff for IRONMAN 70.3 Pune is typically 1 hour 10 minutes from the swim start."
+    },
+    {
+      "question": "T1",
+      "answer": "T1 is the first transition, from the swim to the bike."
+    },
+    {
+      "question": "Can a relay team enter?",
+      "answer": "Yes. Relay teams can enter races that offer a relay category."
+    },
+    {
+      "question": "Wetsuit rules for IRONMAN Texas",
+      "answer": "Wetsuits are allowed or banned depending on the water temperature on race day; the rules are in the athlete guide."
+    }
+  ],
+  "synonyms": [
+    [
+      "register",
+      "sign up",
+      "sign_up",
+      "enrol",
+      "enroll",
+      "enter",
+      "entry",
+      "registration",
+      "signup"
+    ],
+    [
+      "cost",
+      "fee",
+      "price",
+      "charge"
+    ],
+    [
+      "cutoff",
+      "cut off",
+      "time limit",
+      "limit",
+      "deadline"
+    ],
+    [
+      "refund",
+      "money back",
+      "reimburse"
+    ],
+    [
+      "spectator",
+      "supporter",
+      "fan",
+      "cheerer"
+    ],
+    [
+      "wetsuit",
+      "wet suit"
+    ],
+    [
+      "bike",
+      "bicycle",
+      "cycle",
+      "cycling"
+    ],
+    [
+      "transfer",
+      "hand over",
+      "give away",
+      "pass on"
+    ],
+    [
+      "defer",
+      "postpone",
+      "roll over",
+      "roll_over",
+      "carry over"
+    ],
+    [
+      "park",
+      "parking"
+    ],
+    [
+      "compulsory",
+      "mandatory",
+      "required",
+      "require",
+      "obligatory"
+    ],
+    [
+      "allow",
+      "permit",
+      "legal",
+      "permitted"
+    ],
+    [
+      "volunteer",
+      "help out"
+    ],
+    [
+      "rack",
+      "drop off",
+      "drop_off",
+      "check in",
+      "check-in",
+      "leave"
+    ]
+  ],
+  "names": [
+    "Goa",
+    "Mumbai",
+    "Hyderabad",
+    "Pune",
+    "Kona",
+    "Texas",
+    "Florida",
+    "Lake Placid"
+  ]
+}
